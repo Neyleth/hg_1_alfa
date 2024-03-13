@@ -1,11 +1,11 @@
 # Integrantes del equipo  
-- [x] Neyleth Quintero
+- [ ] Neyleth Quintero
 - [ ] Renny Garcia
 - [ ] Angel Bello
 - [ ] Andrea Gomez
 
 # Tipo de usuario
-- [x] Alfa
+- [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
 - [ ] Delta
@@ -13,7 +13,7 @@
 
 
 # Seleccione el tipo de actividad
-- [x] Feature
+- [ ] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
