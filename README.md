@@ -1,4 +1,4 @@
-# hg_1_alfa Ney
+# Alfa Ney
 
 # Integrantes del equipo  
 - [x] Neyleth Quintero
