@@ -4,6 +4,7 @@
 - [ ] Angel Bello
 - [ ] Andrea Gomez
 
+
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
@@ -20,3 +21,18 @@
 - [ ] Testing
       
 
+# Tipo de usuario
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
+
+
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
+      
